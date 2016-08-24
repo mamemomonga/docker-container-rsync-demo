@@ -61,5 +61,7 @@ etc/hogehoge がアップロードできたか確認
 	docker rm rsync-test
 
 ## 参考情報
-[GitHub:`docker exec -i` as a transport for `rsync -e` #13660](https://github.com/docker/docker/issues/13660#issuecomment-192975035)
+* [GitHub:`docker exec -i` as a transport for `rsync -e` #13660](https://github.com/docker/docker/issues/13660#issuecomment-192975035)
+
+* [DEBIAN_FRONTEND=noninteractive ってなんだ](http://qiita.com/udzura/items/576c2c782adb241070bc)
 
